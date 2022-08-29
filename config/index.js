@@ -4,9 +4,9 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "wx05d87783bd56c221",
+    APP_ID: "wx370893bb084a6404",
     // 公众号APP_SECRET
-    APP_SECRET: "b5a74efaf549545d5174a5bf569d6338",
+    APP_SECRET: "241696461bfe44c216174bcaa34d9f0c",
     // 模板消息id
     TEMPLATE_ID: "kDc9O8zcPmgApQ3Oio8iJcWxpDXJg0bPDtbhO1nTAvc",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
@@ -26,7 +26,7 @@ export const config = {
     /** 生日相关 */
 
     // 生日，修改名字为对应需要显示的名字, data 仅填月日即可, 请严格按照示例填写
-    BIRTHDAYS_MESSAGE: [
+    BIRTHDAYS: [
       {"name": "小火炉", "year": "1995", "date": "08-11"}
     ],
 
